@@ -11,7 +11,7 @@
 + 夏休み
 + 冬休み
 + ねこ
-![ねこ](https://cdn.pixabay.com/photo/2016/03/28/10/05/kitten-1285341_960_720.jpg "ねこ")
+![ねこ](https://cdn.pixabay.com/photo/2016/03/28/10/05/kitten-1285341_960_720.jpg "©pixabay　著作権フリー")
 
 ## 好きな言語は
 ```java
